@@ -18,7 +18,7 @@ public class Vets {
 	private String lastName;
 
 	private String specialty;
-
+    
 	private String qualification;
 
 	private String totalExpirence;

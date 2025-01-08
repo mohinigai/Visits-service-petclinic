@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.task.entity.Visit;
-import com.task.entity.service.VisitServiceI;
+import com.task.service.VisitServiceI;
 import com.task.util.ApiResponse;
 
 @RestController
